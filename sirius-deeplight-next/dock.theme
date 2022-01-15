@@ -1,0 +1,40 @@
+#Sirius deepLight - Next Edition
+#
+#Created: November 2021
+#License: MIT © Alfredo F.
+#
+#Author: PT_Alfred
+#Social: https://mastodon.art/@PTAlfred
+
+[PlankTheme]
+TopRoundness=17
+BottomRoundness=17
+LineWidth=0
+OuterStrokeColor=0;;0;;0;;0
+FillStartColor=26;;39;;61;;171
+FillEndColor=26;;39;;61;;141
+InnerStrokeColor=0;;0;;0;;0
+
+[PlankDockTheme]
+HorizPadding=3
+TopPadding=1
+BottomPadding=1
+ItemPadding=3
+IndicatorSize=7
+IconShadowSize=1.25
+UrgentBounceHeight=1.75
+LaunchBounceHeight=0.625
+FadeOpacity=1
+ClickTime=175
+UrgentBounceTime=600
+LaunchBounceTime=600
+ActiveTime=25
+SlideTime=450
+FadeTime=350
+HideTime=375
+GlowSize=30
+GlowTime=10000
+GlowPulseTime=2750
+UrgentHueShift=175
+ItemMoveTime=450
+CascadeHide=true
