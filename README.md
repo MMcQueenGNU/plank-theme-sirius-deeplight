@@ -1,5 +1,4 @@
-# plank-theme-sirius-deeplight## Introduction    
-  
+
 Sirius deepLight is based on the Cupertino series, which was designed to mimic the appearance of the macOS dock itself, but giving a unique look and feel with my own adaptive design.  
   
 **Cupertino Series**  
